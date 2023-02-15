@@ -4,4 +4,4 @@
 <h2>About Me</h2>
 <p>
 <p>This is the beginning of a long journey to learn HTML and CSS.</p>
-<h3>Come and follow me through my latest <a href=https://bsantos03.github.io/CSIT-121/Lab01/Lab01/>lab</a></h3>
+<h3>Come and follow me through my latest <a href=https://bsantos03.github.io/CSIT-121/Lab01/>lab</a></h3>
