@@ -1,0 +1,63 @@
+html {
+    background-color: black;
+}
+.tresume h1{
+    color: yellow;
+    outline: 3px solid white;
+    width: fit-content;
+}
+.tresume ul{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: oblique;
+}
+.tresume section{
+    color: rgb(238, 62, 185);
+}
+.tresume li{
+    color: cyan
+}
+.info h1{
+    color: yellow;
+    outline: 3px solid white;
+    width: fit-content;
+}
+.info ul{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: oblique;
+}
+.info li{
+    color: cyan
+}
+.info section{
+    color: rgb(238, 62, 185);
+}
+.antra h1{
+    color: yellow;
+    outline: 3px solid white;
+    width: fit-content;
+}
+.antra ul{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: oblique;
+}
+.antra section{
+    color: rgb(238, 62, 185);
+}
+.antra li{
+    color: cyan
+}
+.thoughts h1{
+    color: yellow;
+    outline: 3px solid white;
+    width: fit-content;
+}
+.thoughts ul{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: oblique;
+}
+.thoughts li{
+    color: cyan
+}
+.thoughts section{
+    color: rgb(238, 62, 185);
+}
