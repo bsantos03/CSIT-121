@@ -1,0 +1,7 @@
+.container{
+    border-radius: 20px;
+    background-color: cyan;
+    padding: 20px;
+    text-align: center;
+    width: fit-content;
+}
