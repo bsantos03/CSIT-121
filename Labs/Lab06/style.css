@@ -1,0 +1,156 @@
+@media screen and (max-width: 768px) {
+    .header{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        border: none;
+        font-size: 80%;
+        margin-left: 23px;
+    }
+    
+}
+@media screen and (max-width: 786px) {
+    body{
+        background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/1755279/lasagna-day-kb-main-210729.jpg');
+        background-size:cover;
+        background-position: center;
+        background-attachment:fixed;
+    }
+    
+}
+@media screen and (max-width: 786px) {
+    .pic figure{
+        margin:0;
+        overflow: hidden;
+        padding-top: 40px;
+    }
+    
+}
+
+.header{
+    display:flex;
+    border:2px solid black;
+    margin-bottom: 20px;
+    background-color: aliceblue;
+    color: blue;
+    border-radius: 20px;
+    text-align: center;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: large;
+}
+body{
+    background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_30/1755279/lasagna-day-kb-main-210729.jpg');
+    overflow-y: none;
+}
+
+.note p{
+    color:blue;
+    font-size:large;
+}
+
+
+.instructions{
+    border:2px solid black;
+    display:block;
+    width:fit-content;
+    background-color: aliceblue;
+}
+@media screen and (max-width: 786px) {
+    .instructions h2{
+        text-align: center;
+        text-decoration: underline;
+        color: green;
+    }
+}
+@media screen and (max-width: 786px) {
+    .instructions{
+        background-color: white;
+        border-radius: 20px;
+    }
+    
+}
+
+
+@media screen and (max-width: 786px) {
+    .ingredients{
+        border:2px solid black;
+        display:block;
+        margin-bottom: 10px;
+        background-color: white;
+        border-radius: 20px;
+        margin-left: 60px;
+    }
+    
+}
+.ingredients{
+    border:2px solid black;
+    display:block;
+    margin-bottom: 10px;
+    padding-bottom: 50px;
+    background-color: aliceblue;
+}
+@media screen and (max-width: 786px) {
+    #section .ingredients h2{
+        text-align: center;
+        text-decoration: underline;
+        color: green;
+    }
+    
+}
+
+
+@media screen and (max-width: 786px) {
+    .note{
+        border:2px solid black;
+        background-color: white;
+        border-radius: 20px;
+        padding-left: 13px;
+    }
+}
+@media screen and (max-width: 786px) {
+    .note a{
+       display:flex;
+       justify-content: center;
+
+    }
+}
+#section{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: blue;
+}
+#bottom{
+    border: 2px dashed black;
+    margin-top: 10px;
+    display:block;
+    margin: 10px;
+    padding-left: 30px;
+}
+@media screen and (max-width: 786px) {
+    #bottom{
+        border:2px solid black;
+        background-color: white;
+        border-radius: 20px;
+        overflow: none;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
+@media screen and (max-width: 786px) {
+    #bottom figure{
+        border:2px solid black;
+        background-color: white;
+        border-radius: 20px;
+        overflow: none;
+        padding-right: 10px;
+        padding-top: 10px;
+        margin-top: 10px;
+        
+    }
+}
+
+
